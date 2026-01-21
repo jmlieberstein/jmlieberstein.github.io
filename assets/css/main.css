@@ -33,6 +33,11 @@ body {
 	line-height: 1;
 }
 
+.tight {
+	margin: 0;          /* no vertical space */
+	padding: 0;
+}
+
 ol, ul {
 	list-style: none;
 }
